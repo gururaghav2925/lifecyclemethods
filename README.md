@@ -136,6 +136,7 @@ public class MainActivity extends AppCompatActivity {
 ## OnStart Executed
 
 <img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/24228cde-9b02-4bed-b8b9-b7318462b363" />
+
 ## OnRestart Executed
 
 <img width="1534" height="863" alt="image" src="https://github.com/user-attachments/assets/7f49a43f-00f0-4886-bf06-9db70a9d94a2" />
